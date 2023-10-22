@@ -1,0 +1,48 @@
+.side-menu{
+position: fixed;
+left: 0;
+bottom: 0;
+top: 55px;
+border-width: 2px;
+border-style: solid;
+padding-right: 0px;
+background-color: white;
+opacity: 1;
+border-color: white;
+}
+
+
+.Sidemenu-icons{
+
+height: 24px;
+width: 24px;
+
+
+
+
+
+}
+
+.sidemenu-button{
+
+background-color: white;
+border: none;
+padding-top: 5px;
+cursor: pointer;
+
+
+}
+
+.sidemenu-button:hover{
+
+
+
+
+    background-color: rgb(248, 248,248);
+}
+.sidemenu-p{
+
+font-size: 10px;
+
+
+}
